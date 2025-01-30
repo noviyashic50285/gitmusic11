@@ -1,0 +1,19 @@
+body{display: flex;}
+.butnfon{ display: block; 
+padding-top: 1.8rem;
+font-size: medium; color: red;
+position: absolute;
+} 
+button{ background-color: transparent;
+background-repeat: no-repeat;
+border: 1; color: red;
+cursor: pointer;
+overflow: hidden;
+outline: none;
+}
+button:hover{color: white;}
+p{color: #fff;}
+.audiolist{ margin-bottom: 5px; font-size: 1.3rem;
+border: 1px dashed #a45be8; border-radius: 10px; 
+}
+    
