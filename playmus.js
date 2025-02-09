@@ -9,10 +9,6 @@ const playvBtnEl = document.getElementById("play");
 const nextvBtnEl = document.getElementById("next");
 const songs = [
   {
-    path: "music/zakbrak.mp3",
-    displayName: "Законный брак",
-  },
-  {
     path: "music/nalgrust.mp3",
     displayName: "Налетела грусть",
   },
@@ -55,6 +51,10 @@ const songs = [
   {
     path: "music/shkolpora.mp3",
     displayName: "Школьная пора",
+  },
+  {
+    path: "music/zakbrak.mp3",
+    displayName: "Законный брак",
   },
   {
     path: "music/ledygam.mp3",
