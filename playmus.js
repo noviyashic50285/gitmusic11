@@ -37,8 +37,8 @@ const songs = [
     displayName: "Хочется",
   },
   {
-    path: "music/gimnastika.mp3",
-    displayName: "Гимнастика",
+    path: "music/verniydrug.mp3",
+    displayName: "Верный друг",
   },
   {
     path: "music/na5etazhe.mp3",
